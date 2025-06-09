@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 9,
+  "description": "USD stablecoin",
+  "image": "https://raw.githubusercontent.com/TokenH25/USDTusdt2/main/logo.png"
+}
